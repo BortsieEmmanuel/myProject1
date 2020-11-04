@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My project2</string>
+    <string name="signin">Sign in your username or email</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="password">password</string>
+    <string name="create_account">Create Account</string>
+    <string name="social_login">Social Login can your valuable time</string>
+    <string name="signup">Sign up with your username or password</string>
+    <string name="email">Username or Email</string>
+    <string name="confirm">confirm password</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
